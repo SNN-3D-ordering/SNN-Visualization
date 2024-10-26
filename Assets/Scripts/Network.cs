@@ -4,14 +4,9 @@ using UnityEngine;
 using System;
 
 [Serializable]
-public class Neuron
+public class Network
 {
-
-    public int id;
-    public List<int> position;
-    public bool active;
-    public List<int> connectedTo;
-    
+    public List<Layer> layers;
     // Start is called before the first frame update
     void Start()
     {

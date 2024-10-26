@@ -1,0 +1,89 @@
+{
+    "layers": [
+      {
+        "neurons": [
+          {
+            "id": 1,
+            "position": [0, 0],
+            "active": false,
+            "connectedTo": [5, 6]
+          },
+          {
+            "id": 2,
+            "position": [1, 0],
+            "active": true,
+            "connectedTo": [5, 7]
+          },
+          {
+            "id": 3,
+            "position": [2, 0],
+            "active": false,
+            "connectedTo": [6, 7, 8]
+          },
+          {
+            "id": 4,
+            "position": [3, 0],
+            "active": true,
+            "connectedTo": [8]
+          }
+        ]
+      },
+      {
+        "neurons": [
+          {
+            "id": 5,
+            "position": [1, 0],
+            "active": true,
+            "connectedTo": [9, 10]
+          },
+          {
+            "id": 6,
+            "position": [1, 1],
+            "active": false,
+            "connectedTo": [10]
+          },
+          {
+            "id": 7,
+            "position": [2, 1],
+            "active": true,
+            "connectedTo": [9, 11]
+          },
+          {
+            "id": 8,
+            "position": [3, 1],
+            "active": false,
+            "connectedTo": [11, 12]
+          }
+        ]
+      },
+      {
+        "neurons": [
+          {
+            "id": 9,
+            "position": [0, 2],
+            "active": false,
+            "connectedTo": []
+          },
+          {
+            "id": 10,
+            "position": [1, 2],
+            "active": true,
+            "connectedTo": []
+          },
+          {
+            "id": 11,
+            "position": [2, 2],
+            "active": false,
+            "connectedTo": []
+          },
+          {
+            "id": 12,
+            "position": [3, 2],
+            "active": true,
+            "connectedTo": []
+          }
+        ]
+      }
+    ]
+  }
+  
