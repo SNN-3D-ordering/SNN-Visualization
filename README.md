@@ -16,8 +16,8 @@ This Unity project visualizes neural networks by loading JSON-based neural netwo
 ## Features
 
 <div style="display: flex; justify-content: space-around;">
-    <img src="images/Screenshot_1.jpeg" alt="Image 1" width="300"/>
-    <img src="images/Screenshot_2.jpeg" alt="Image 2" width="300"/>
+    <img src="images/Screenshot_1.jpeg" alt="Screenshot 1" style="width: 49%;"/>
+    <img src="images/Screenshot_2.jpeg" alt="Screenshot 2" style="width: 49%;"/>
 </div>
 
 
