@@ -15,6 +15,12 @@ This Unity project visualizes neural networks by loading JSON-based neural netwo
 
 ## Features
 
+<div style="display: flex; justify-content: space-around;">
+    <img src="images/Screenshot_1.jpeg" alt="Image 1" width="300"/>
+    <img src="images/Screenshot_2.jpeg" alt="Image 2" width="300"/>
+</div>
+
+
 - **3D Visualization of Neural Networks**: Layers of neurons are organized in 3D space, with adjustable layer and neuron spacing.
 - **Color Coding by Heat**: Neurons are color-coded based on their heat values, ranging from blue (cooler) to red (hotter).
 - **Dynamic Scaling**: The network scales to fit within a defined maximum depth, maintaining visual clarity regardless of network size.
