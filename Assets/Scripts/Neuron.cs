@@ -9,8 +9,7 @@ public class Neuron
 
     public int id;
     public List<int> position;
-    public bool active;
-    public List<int> connectedTo;
+    public int heat;
     
     // Start is called before the first frame update
     void Start()
